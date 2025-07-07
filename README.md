@@ -15,19 +15,6 @@
 
 - Python 3.6 или новее
 
-## Установка
-
-1. Клонируйте репозиторий:
-```bash
-git clone https://github.com/your-username/task-manager.git
-cd task-manager
-```
-
-2. Запустите приложение:
-```bash
-python task_manager.py
-```
-
 ## Использование
 
 После запуска программы используйте следующие команды:
