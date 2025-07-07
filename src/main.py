@@ -63,6 +63,7 @@ class TaskManager:
 if __name__ == "__main__":
     t_manager = TaskManager()
     t_manager.read_json()
+    t_manager.display()
     while True:
         try:
             print("""
